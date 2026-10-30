@@ -1,0 +1,10 @@
+{
+  "name": "weatherapp-part3-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "jsdom": "^19.0.0",
+    "node-fetch": "2"
+  }
+}
